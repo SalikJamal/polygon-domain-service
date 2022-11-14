@@ -11,4 +11,4 @@ const networks = {
   "0xa86a": "AVAX Mainnet",
 }
 
-export { networks };
+export { networks }
