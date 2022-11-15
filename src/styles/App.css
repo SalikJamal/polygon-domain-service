@@ -54,7 +54,7 @@ header{
 .right{
   display: flex;
   background: black;
-  border-radius: 16px;
+  border-radius: 3px;
   padding: 12px 20px;
   height: 99%;
   margin-right: 10%;
@@ -168,7 +168,7 @@ header{
 
 input{
   border: 0;
-  border-radius: 12px;
+  border-radius: 3px;
   background-color: black;
   color: white;
   letter-spacing: 1px;
